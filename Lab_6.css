@@ -1,0 +1,42 @@
+
+body{
+    background-color: azure;
+}
+
+h2{
+    font-size: 40px;
+
+}
+
+#map{
+    height: 500px;
+    width: 80%;
+    max-width: 800px;
+    margin: 20px 0;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+#coordinates {
+    width: 80%;
+    max-width: 800px;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+#coordinates p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+#marker{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#local{
+    font-size: 15px;
+    font-weight: bold;
+}
